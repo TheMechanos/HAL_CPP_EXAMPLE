@@ -16,7 +16,7 @@ To run this project, you will need:
 1. Clone this project to your local environment.
 
 ```bash
-git clone https://github.com/TheMechanos/_HAL_CPP_EXAMPLE.git
+git clone https://github.com/TheMechanos/HAL_CPP_EXAMPLE.git
 ```
 2.  Open the project in your preferred IDE.
     
